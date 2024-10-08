@@ -1,1 +1,4 @@
-// Your code goes here
+document.addEventListener("DOMContentLoaded", function() {
+    const changeP = document.getElementById("text")
+    changeP.innerHTML = "This is really cool!"
+})
